@@ -1,0 +1,16 @@
+{
+  "name": "HAAMJYU List",
+  "logoURI": "https://raw.githubusercontent.com/<你的帳號>/haamjyu-token/main/logo.png",
+  "timestamp": "2025-10-17T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xf1c65f82a24148102258fa82ca28038176c4ce94",
+      "name": "沒有夢想跟鹹魚有什麼兩樣",
+      "symbol": "HAAMJYU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/<你的帳號>/haamjyu-token/main/logo.png"
+    }
+  ]
+}
